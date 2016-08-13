@@ -1,5 +1,6 @@
 import java.util.Random;
 import  static utils.LineSeparator.*;
+
 public class Task3 {
     private static Random Random = new Random();
     private static int[] Arr = new int[10];
